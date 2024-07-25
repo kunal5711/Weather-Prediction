@@ -25,7 +25,7 @@ if (nav == "Home"):
         st.table(mod_data)
 
     st.header("Visualization Plots")
-    op = st.selectbox("Plots b/w", ["Monthly", "Yearly"])
+    op = st.selectbox("Plots with Max temp", ["Monthly", "Yearly"])
     gr_monthly = df['tmax'].groupby(df.index.month).mean()
     gr_yearly = df['tmax'].groupby(df.index.year).mean()
 
