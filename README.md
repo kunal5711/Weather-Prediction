@@ -49,6 +49,3 @@ To get started with this project, follow these steps:
 
 ## Contributing
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to contribute to this project.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
