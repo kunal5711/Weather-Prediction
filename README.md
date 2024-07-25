@@ -1,5 +1,8 @@
 # Weather Prediction
 
+```bash
+https://weather-prediction-ketnqhcothesbccadc3omp.streamlit.app/
+```
 Welcome to the Weather Prediction project! This project aims to predict weather conditions using historical data and a Linear Regression model from sklearn.
 
 ## Table of Contents
