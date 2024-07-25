@@ -7,7 +7,6 @@ Welcome to the Weather Prediction project! This project aims to predict weather 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project is a basic implementation of a weather prediction model. It uses historical weather data to predict future weather conditions for the next 7 days. The primary goal of this project is to increase knowledge and understanding of machine learning concepts and their application in weather prediction.
