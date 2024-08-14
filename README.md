@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/kunal5711/Weather-Prediction.git
+    git clone https://github.com/yourusername/Weather-Prediction.git
     cd Weather-Prediction
     ```
 
